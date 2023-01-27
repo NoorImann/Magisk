@@ -1,5 +1,5 @@
 # Magisk Changelog
-
+HELLO-WORLD
 ### v25.2
 
 - [MagiskInit] Fix a potential issue when stub cpio is used
